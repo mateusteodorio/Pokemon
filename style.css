@@ -1,3 +1,29 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #EFEFF2;
+}
+
+
+h1{
+    color: #01A1A1;
+    font-size: 96px;
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+      
+    
+      
+}
+
+
 .Estrutura{
     width: 1910px;
     display: flex;
@@ -5,7 +31,7 @@
     justify-content: center;
     flex-wrap: wrap;
     height: 800px;
-    background-color: rgb(255, 195, 195);
+    background-color: rgb(EF,EF,F2);
 
 }
 
