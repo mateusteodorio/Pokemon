@@ -1,0 +1,30 @@
+.Estrutura{
+    width: 1910px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 800px;
+    background-color: rgb(255, 195, 195);
+
+}
+
+.Dados{
+    height: 600px;
+    width: 1910px;
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+
+
+}
+
+.card{
+    align-self: center;
+    display: flex;
+    background-color: blue;
+    height: 400px;
+    width: 280px;
+}
